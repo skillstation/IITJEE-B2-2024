@@ -4,7 +4,7 @@
 
 | Date       | Day        | Time Slot      | Subject             |
 |------------|-----------|---------------|---------------------|
-| 03-Mar-25  | Monday    | 7:00-8:30 PM  | **Physics**    |
+| 03-Mar-25  | Monday    | 7:00-8:30 PM  | **Physics** ✅   |
 | 05-Mar-25  | Wednesday | 7:00-8:30 PM  | Maths              |
 | 07-Mar-25  | Friday    | 7:00-8:30 PM  | Chemistry          |
 | 08-Mar-25  | Saturday  | 7:00-8:30 PM  | Worksheet/Exam     |
