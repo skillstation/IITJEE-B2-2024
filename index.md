@@ -24,3 +24,6 @@
 
 [0303-Lecture](HNJyeX1KXQU)
 [0303-Notes](https://drive.google.com/file/d/15d2TKrjNXNwhJXOcVvS8yf0uDhJi9ovD/view?usp=drive_link)
+[0303-Worksheet](https://drive.google.com/file/d/1cvoHzmhUvrPlh0Ke8nwgRx141r64ngsF/view?usp=drive_link)
+
+
