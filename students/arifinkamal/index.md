@@ -26,7 +26,7 @@
 | 29-Mar-25  | Saturday  | 7:00-8:30 PM  | Worksheet/Exam     |             |             |           |
 | 31-Mar-25  | Monday    | 7:00-8:30 PM  | **Physics**         |             |             |           |
 
-- 🟡 Upcoming Submission
--1 ❌ Not Submitted Yet (Missed deadline)
-0 ✔️ Late Submission (Submitted after deadline)
-+1 ✅ On Time Submission  
+- 🟡 Upcoming Submission\
+-1 ❌ Not Submitted Yet (Missed deadline)\
+0 ✔️ Late Submission (Submitted after deadline)\
++1 ✅ On Time Submission\
