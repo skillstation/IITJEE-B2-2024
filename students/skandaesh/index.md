@@ -35,4 +35,4 @@ Last Updated: Tue 4 Mar 12:17 PM
 0 🟡 Upcoming Submission\
 -1 ❌ Not Submitted Yet (Missed deadline)\
 0 ✔️ Late Submission (Submitted after deadline)\
-+1 ✅ On Time Submission\
++1 ✅ On Time Submission
