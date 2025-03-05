@@ -14,7 +14,7 @@ Last Updated: Tue 4 Mar 12:17 PM
 
 | Date       | Day        | Time Slot      | Subject           | Class Notes | Short Notes | Worksheet |
 |------------|------------|----------------|-------------------|-------------|-------------|-----------|
-| 03-Mar-25  | Monday    | 7:00-8:30 PM  | **Physics**         |      ❌     |      🟡     |     🟡     |
+| 03-Mar-25  | Monday    | 7:00-8:30 PM  | **Physics**         |      ❌     |      ❌     |     ❌     |
 | 05-Mar-25  | Wednesday | 7:00-8:30 PM  | Maths               |             |             |           |
 | 07-Mar-25  | Friday    | 7:00-8:30 PM  | **Chemistry**       |             |             |           |
 | 08-Mar-25  | Saturday  | 7:00-8:30 PM  | Worksheet/Exam      |             |             |           |
