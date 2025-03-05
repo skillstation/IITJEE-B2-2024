@@ -12,7 +12,7 @@
 
 | Date       | Day        | Time Slot      | Subject             | Class Notes | Short Notes | Worksheet |
 |------------|-----------|---------------|---------------------|-------------|-------------|-----------|
-| 03-Mar-25  | Monday    | 7:00-8:30 PM  | **Physics**         |      ❌     |      🟡       |     🟡      |
+| 03-Mar-25  | Monday    | 7:00-8:30 PM  | **Physics**         |      ❌     |      ✔️       |     ❌      |
 | 05-Mar-25  | Wednesday | 7:00-8:30 PM  | Maths              |             |             |           |
 | 08-Mar-25  | Saturday  | 7:00-8:30 PM  | Worksheet/Exam     |             |             |           |
 | 10-Mar-25  | Monday    | 7:00-8:30 PM  | **Physics**         |             |             |           |
@@ -30,3 +30,5 @@
 -1 ❌ Not Submitted Yet (Missed deadline)\
 0 ✔️ Late Submission (Submitted after deadline)\
 +1 ✅ On Time Submission\
+
+REMARKS; 0303; Notes not submitted after class by 9 PM; short notes submitted by 9:02 PM; worksheet not yet submited; 
