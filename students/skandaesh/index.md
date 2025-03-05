@@ -10,6 +10,8 @@ Last Updated: Tue 4 Mar 12:17 PM
 
 [Skype Class Link](https://join.skype.com/qTgv34k7jW4S)
 
+[Skupe Class Link - Personal Mentorship](https://join.skype.com/qTgv34k7jW4S)
+
 [Notes Submission Link](https://forms.gle/bvWdTWgLTz1ocF2h7)
 
 | Date       | Day        | Time Slot      | Subject           | Class Notes | Short Notes | Worksheet |
