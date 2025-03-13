@@ -14,25 +14,21 @@ Last Updated: Tue 4 Mar 12:17 PM
 
 [Notes Submission Link](https://forms.gle/bvWdTWgLTz1ocF2h7)
 
-| Date       | Day        | Time Slot      | Subject           | Class Notes | Short Notes | Worksheet |
-|------------|------------|----------------|-------------------|-------------|-------------|-----------|
-| 03-Mar-25  | Monday    | 7:00-8:30 PM  | **Physics**         |      ❌     |      ❌     |     ❌     |
-| 05-Mar-25  | Wednesday | 7:00-8:30 PM  | Maths               |             |             |           |
-| 07-Mar-25  | Friday    | 7:00-8:30 PM  | **Chemistry**       |             |             |           |
-| 08-Mar-25  | Saturday  | 7:00-8:30 PM  | Worksheet/Exam      |             |             |           |
-| 10-Mar-25  | Monday    | 7:00-8:30 PM  | **Physics**         |             |             |           |
-| 12-Mar-25  | Wednesday | 7:00-8:30 PM  | Maths               |             |             |           |
-| 14-Mar-25  | Friday    | 7:00-8:30 PM  | **Chemistry**       |             |             |           |
-| 15-Mar-25  | Saturday  | 7:00-8:30 PM  | Worksheet/Exam      |             |             |           |
-| 17-Mar-25  | Monday    | 7:00-8:30 PM  | **Physics**         |             |             |           |
-| 19-Mar-25  | Wednesday | 7:00-8:30 PM  | Maths               |             |             |           |
-| 21-Mar-25  | Friday    | 7:00-8:30 PM  | **Chemistry**       |             |             |           |
-| 22-Mar-25  | Saturday  | 7:00-8:30 PM  | Worksheet/Exam      |             |             |           |
-| 24-Mar-25  | Monday    | 7:00-8:30 PM  | **Physics**         |             |             |           |
-| 26-Mar-25  | Wednesday | 7:00-8:30 PM  | Maths               |             |             |           |
-| 28-Mar-25  | Friday    | 7:00-8:30 PM  | **Chemistry**       |             |             |           |
-| 29-Mar-25  | Saturday  | 7:00-8:30 PM  | Worksheet/Exam      |             |             |           |
-| 31-Mar-25  | Monday    | 7:00-8:30 PM  | **Physics**         |             |             |           |
+**SHORT NOTES**
+
+**I. PHYSICS**
+
+❌UNITS AND DIMENSTIONS 
+[Short-Notes]()
+[Worksheet](https://drive.google.com/file/d/1CCt_qvYkKbTY1SosxvXHMguKOARJQcyR) // mAOw
+[Solutions]()
+
+**II. MATHEMATICS**
+
+❌FUNCTIONS
+[Short-Notes]()
+[Worksheet](https://drive.google.com/drive/u/2/folders/1EoQ9tJG0A0nXeT1OhZN_bRdNT5wKS7PG)
+[Solutions]()
 
 0 🟡 Upcoming Submission\
 -1 ❌ Not Submitted Yet (Missed deadline)\
