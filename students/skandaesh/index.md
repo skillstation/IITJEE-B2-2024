@@ -18,17 +18,19 @@ Last Updated: Tue 4 Mar 12:17 PM
 
 **I. PHYSICS**
 
-❌UNITS AND DIMENSTIONS 
-[Short-Notes]()
+UNITS AND DIMENSTIONS 
+[❌Short-Notes]()
 [Worksheet](https://drive.google.com/file/d/1CCt_qvYkKbTY1SosxvXHMguKOARJQcyR) <!-- mAOw -->
-[Solutions]()
+[❌Solutions]()
 
 **II. MATHEMATICS**
 
-❌FUNCTIONS
-[Short-Notes]()
+**CALCULUS**
+
+FUNCTIONS
+[❌Short-Notes]()
 [Worksheet](https://drive.google.com/drive/u/2/folders/1EoQ9tJG0A0nXeT1OhZN_bRdNT5wKS7PG) <!-- S7PG -->
-[Solutions]()
+[❌Solutions]()
 
 0 🟡 Upcoming Submission\
 -1 ❌ Not Submitted Yet (Missed deadline)\
